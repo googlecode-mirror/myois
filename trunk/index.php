@@ -15,7 +15,7 @@
             $FID = $_REQUEST["FID"];
         }
         echo 2222222;
-        echo 'dzjzmj';
+        echo '¿ñ²Ùdzjzmj';
         echo '²Ùdzjzmj';
     ?>
 
