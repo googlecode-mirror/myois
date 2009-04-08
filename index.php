@@ -68,7 +68,7 @@
                 <div style="clear: both; height: 1px"></div>
             </div>
                 <?php include 'include/footer.php';
-                echo 'Ïã½¶¸ö°ÇÀ­';
+                echo 'ÎÒ¿¿ÄãÏã½¶';
                 ?>
         </div>
         <!-- end div#wrapper -->
