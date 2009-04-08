@@ -14,6 +14,7 @@
         if(isset($_REQUEST["FID"])){
             $FID = $_REQUEST["FID"];
         }
+        echo 'dzjzmj';
     ?>
 
     <body>
