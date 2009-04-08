@@ -67,7 +67,9 @@
                 <!-- end div#sidebar -->
                 <div style="clear: both; height: 1px"></div>
             </div>
-                <?php include 'include/footer.php'; ?>
+                <?php include 'include/footer.php';
+                echo 'Ïã½¶¸ö°ÇÀ­';
+                ?>
         </div>
         <!-- end div#wrapper -->
     </body>
